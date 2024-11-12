@@ -1,0 +1,10 @@
+Clusters discovered: 4
+Cluster 1: ['AKBNK.IS', 'GARAN.IS']
+Cluster 2: ['YKBNK.IS', 'ISCTR.IS']
+Cluster 3: ['ASELS.IS', 'EKGYO.IS']
+Cluster 4: ['FROTO.IS', 'TOASO.IS']
+AKBNK.IS - GARAN.IS: p value = 0.06077856992978009
+YKBNK.IS - ISCTR.IS: p value = 0.4306254969880392
+ASELS.IS - EKGYO.IS: p value = 0.3668475752459873
+FROTO.IS - TOASO.IS: p value = 0.45353095067107607
+Pairs passing the test:
